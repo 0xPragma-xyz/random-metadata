@@ -1,0 +1,19 @@
+{
+  "name": "Gift-codes ",
+  "description": "Gift codes for inviting your friend",
+  "image": "https://thecustompack.com/wp-content/uploads/2022/02/Gift-Card-Boxes-1-scaled-2.jpg",
+  "type": "package",
+  "attributes": [
+     {
+      "display_type": "Number",
+      "trait_type": "Inception NFT Gift Code",
+      "value": 2
+    },
+    {
+      "display_type": "Number",
+      "trait_type": "Social Subscription",
+      "value": 2
+    },
+   
+  ]
+}
